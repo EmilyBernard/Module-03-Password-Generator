@@ -4,6 +4,13 @@ Application will generate a random password for employee use
 # Project Status
 Submitted for evaluation.  Would like guidance on creating loops to redirect users when their responses are invalid.
 
+# Project Deployed
+https://emilybernard.github.io/Module-03-Password-Generator/
+
+# Screenshot of webpage
+Module-03-Password-Generator/assets/pictures/Screen Shot 2022-10-03 at 6.33.42 PM.png
+
+
 # Password Generator Starter Code
 Some code provided to start, with some instruction to guide the process.
 
@@ -39,5 +46,5 @@ THEN the password is either displayed in an alert or written to the page
 Ideally the User would be redirected to the original window prompt to restart the function and generate the desired random password. I haven't been able to successully program that function.
 
 # Authors and acknowledgement
-During creation, classmates have helped by answering questions, and providing some basic code that worked for them.
+During creation, classmates have helped by answering questions, and providing some basic code (David Proto) that worked for them. Shout out to Chris (Chris Scott?) for hosting a lengthy zoom study group!
 
