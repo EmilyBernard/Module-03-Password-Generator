@@ -46,5 +46,5 @@ THEN the password is either displayed in an alert or written to the page
 Ideally the User would be redirected to the original window prompt to restart the function and generate the desired random password. I haven't been able to successully program that function.
 
 # Authors and acknowledgement
-During creation, classmates have helped by answering questions, and providing some basic code (David Proto) that worked for them. Shout out to Chris (Chris Scott?) for hosting a lengthy zoom study group!
+During creation, classmates have helped by answering questions, and providing some basic code (David Proto) that worked for them. Shout out to Chris Lemmon for hosting a lengthy zoom study group!
 
