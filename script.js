@@ -11,7 +11,8 @@ var passwordChar = [""];
 
 var lengthUser = window.prompt("How many characters long would you like your new password to be? MUST be between 8 & 128:")
 if (lengthUser < 8 || lengthUser > 128 || isNaN(lengthUser)){
-    return alert("Invalid response. Please restart and enter a number between 8 and 128.");
+    alert("Invalid response. Please restart and enter a number between 8 and 128.");
+    return generatePassword();
    
   } 
 
@@ -45,7 +46,8 @@ if (lengthUser < 8 || lengthUser > 128 || isNaN(lengthUser)){
 
     
     if (lowCharResponce + uppCharResponce + numCharResponce + specCharResponce === 0) {
-      return alert ("MUST choose at least 1 type of character. Please restart!");
+      alert ("MUST choose at least 1 type of character. Please restart!");
+      return generatePassword();
     }
 
     return passwordChar;
